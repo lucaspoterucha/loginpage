@@ -10,16 +10,16 @@ O projeto foi construído utilizando:
 
 ## 📌 Sobre o projeto  
 
-A **Página de Login** é uma pagina de login para o usuario acessar a pagina principal.
-✅ Acessar a página principal com e-mail e senha 
+A **Página de Login** é uma pagina de login acessar a pagina principal, onde o usuario pode:
+<div>✅ Acessar a página principal com e-mail e senha </div>
 ✅ Se registrar com e-mail e senha   
 
 ## 🚀 Demonstração  
 
-![Capturar](https://github.com/user-attachments/assets/079bc31f-cf1a-49c7-bde0-4ac5b0f40a5b)
+![Capturar]()
 
 
-🔗 **Acesse o projeto online:** [nlwconnect.vercel.app](https://nlwconnect.vercel.app)  
+🔗 **Acesse o projeto online:** []()  
 
 ---  
 
