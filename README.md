@@ -16,7 +16,7 @@ A **Página de Login** é uma pagina de login acessar a pagina principal, onde o
 
 ## 🚀 Demonstração  
 
-![Capturar](assets/assents.jpg)
+![Capturar](assets/assets.jpg)
 
 
 🔗 **Acesse o projeto online:** [https://loginpage-jf93.vercel.app/](https://loginpage-jf93.vercel.app/)  
